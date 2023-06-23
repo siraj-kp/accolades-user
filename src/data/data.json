@@ -1,0 +1,132 @@
+{
+  "Header": {
+    "title": "Marketting Insights & Campaigns Worthy of Your Time and Attention",
+    "paragraph": "We act appropriately to your exact requirement by adding the top rated techniques to accomplish your marketing objectives precisely."
+  },
+  "About": {
+    "paragraph": "The ultimatum of our successful company is to adequately provide our prospective clients with the required service that they promptly demand from us. To procure the desired result we earnestly strive with all our collaborative effort. It’s our genuine commitment and ultimate responsibility to amend the success rate for all our specific clients.",
+    "Why": [
+      "Provide smart and flexible digital services",
+      "Creative Designs",
+      "Innovative websites, exceptional user experiences.",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "img/services/digital.png",
+      "name": "Digial Marketting",
+      "text": "Get ROI through digital marketing services, drive successful online marketing campaigns with our digital marketing services."
+    },
+    {
+      "icon": "img/services/graphics.png",
+      "name": "Branding",
+      "text": "Whether you are looking for website design services or the management of digital advertising campaigns, we are here to help."
+    },
+    {
+      "icon": "img/services/web.png",
+      "name": "Web/App Development",
+      "text": "Get Customized Website Design specific to your business. We design cross-browser compatibility websites with the latest features."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/englishcafe-testimonials.webp",
+      "text": "Hai, the last one year they are assisting us by giving their best in Google ads, very professional and responsible firm with aiming more results to client. Their client dealing is absolutely fine!",
+      "name": "English Cafe"
+    },
+    {
+      "img": "img/testimonials/mountainshadows-testimonials.webp",
+      "text": "I would like to extend our gratitude for the effort you have put to make this project successful. The endless hours you have spent working on this project, and the professionalism you have shown impressed the entire team immensely. Once again, thank you for the outstanding performance of the web design project. Keep it up!",
+      "name": "Mountain Shadows"
+    },
+    {
+      "img": "img/testimonials/ocean-testimonials.webp",
+      "text": "Great service from good people. The team at Accolades was able to meet all my business needs and went above and beyond to make sure customisations were done",
+      "name": "Ocean Polymers"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": " No.32/3071 – B | First Floor Anjiparambil Building | Ponnurunni | NH Bypass | Vyttila | Kochi – 682 019",
+    "phone": "+91 994302922",
+    "email": "mail@accoladesmedia.co.in",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
